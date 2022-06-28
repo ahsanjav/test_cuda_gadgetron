@@ -1,0 +1,111 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/include",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/lib/gcc/x86_64-conda-linux-gnu/9.4.0/include",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/lib/gcc/x86_64-conda-linux-gnu/9.4.0/include-fixed",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/x86_64-conda-linux-gnu/include",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/x86_64-conda-linux-gnu/sysroot/usr/include"
+					],
+					"linkDirectories" : 
+					[
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/lib",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/lib/gcc/x86_64-conda-linux-gnu/9.4.0",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/lib/gcc",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/x86_64-conda-linux-gnu/lib",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/x86_64-conda-linux-gnu/sysroot/lib",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/x86_64-conda-linux-gnu/sysroot/usr/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"gcc",
+						"gcc_s",
+						"c",
+						"gcc",
+						"gcc_s"
+					]
+				},
+				"path" : "/home/javeda2/mambaforge/envs/gadgetron_cuda115/bin/x86_64-conda-linux-gnu-cc",
+				"version" : "9.4.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/include",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/lib/gcc/x86_64-conda-linux-gnu/9.4.0/include",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/lib/gcc/x86_64-conda-linux-gnu/9.4.0/include-fixed",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/x86_64-conda-linux-gnu/include",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/x86_64-conda-linux-gnu/include/c++/9.4.0",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/x86_64-conda-linux-gnu/include/c++/9.4.0/x86_64-conda-linux-gnu",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/x86_64-conda-linux-gnu/include/c++/9.4.0/backward",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/x86_64-conda-linux-gnu/sysroot/usr/include"
+					],
+					"linkDirectories" : 
+					[
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/lib",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/lib/gcc/x86_64-conda-linux-gnu/9.4.0",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/lib/gcc",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/x86_64-conda-linux-gnu/lib",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/x86_64-conda-linux-gnu/sysroot/lib",
+						"/home/javeda2/mambaforge/envs/gadgetron_cuda115/x86_64-conda-linux-gnu/sysroot/usr/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"m",
+						"gcc_s",
+						"gcc",
+						"c",
+						"gcc_s",
+						"gcc"
+					]
+				},
+				"path" : "/home/javeda2/mambaforge/envs/gadgetron_cuda115/bin/x86_64-conda-linux-gnu-c++",
+				"version" : "9.4.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

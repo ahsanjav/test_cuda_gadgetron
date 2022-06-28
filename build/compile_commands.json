@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/javeda2/mrprogs/test_cuda_gadgetron/build",
+  "command": "/bin/c++ -DARMA_64BIT_WORD -DARMA_DONT_USE_WRAPPER -DARMA_USE_CXX11 -DBOOST_ALLOW_DEPRECATED_HEADERS -DBOOST_ALL_NO_LIB -DBOOST_BIND_GLOBAL_PLACEHOLDERS -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DGADGETRON_COMPRESSION_ZFP -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/test_cuda_gadgetron.dir/test_cuda_gadgetron.cpp.o -c /home/javeda2/mrprogs/test_cuda_gadgetron/test_cuda_gadgetron.cpp",
+  "file": "/home/javeda2/mrprogs/test_cuda_gadgetron/test_cuda_gadgetron.cpp"
+}
+]
