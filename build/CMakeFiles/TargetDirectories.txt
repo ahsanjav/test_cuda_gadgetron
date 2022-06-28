@@ -1,7 +1,0 @@
-/home/javeda2/mrprogs/test_cuda_gadgetron/build/CMakeFiles/install/strip.dir
-/home/javeda2/mrprogs/test_cuda_gadgetron/build/CMakeFiles/install/local.dir
-/home/javeda2/mrprogs/test_cuda_gadgetron/build/CMakeFiles/install.dir
-/home/javeda2/mrprogs/test_cuda_gadgetron/build/CMakeFiles/list_install_components.dir
-/home/javeda2/mrprogs/test_cuda_gadgetron/build/CMakeFiles/rebuild_cache.dir
-/home/javeda2/mrprogs/test_cuda_gadgetron/build/CMakeFiles/edit_cache.dir
-/home/javeda2/mrprogs/test_cuda_gadgetron/build/CMakeFiles/test_cuda_gadgetron.dir

@@ -1,9 +1,0 @@
-# ninja log v5
-0	9	0	clean	af49d94896d3f0cc
-0	851	1656455266748293616	build.ninja	e857682823b83468
-15155	15174	0	CMakeFiles/install.util	fc9eebecdf6c5f43
-14935	15155	1656436878558727009	test_cuda_gadgetron	b7025b776090d1c8
-14	11894	1656455183681722912	CMakeFiles/test_cuda_gadgetron.dir/test_cuda_gadgetron.cpp.o	7cc171640e8c69b
-11	11369	1656455282596020952	CMakeFiles/test_cuda_gadgetron.dir/test_cuda_gadgetron.cpp.o	60848cec34bbb446
-11371	11579	1656455282852016546	test_cuda_gadgetron	e55cbcc9b23544cf
-11579	11601	0	CMakeFiles/install.util	bf91e6128ec5b6c8
