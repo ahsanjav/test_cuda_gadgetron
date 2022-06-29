@@ -4,8 +4,16 @@
 #pragma once
 // Gadgetron includes
 
+#include <gadgetron/cuSDC.h>
+#include <gadgetron/hoNDArray_utils.h>
+
 #include <gadgetron/cuNFFT.h>
+#include <gadgetron/cuNDFFT.h>
+#include <gadgetron/cuNDArray_math.h>
 #include <gadgetron/cuNDArray.h>
+#include <gadgetron/cuNDArray_math.h>
+#include <gadgetron/cuNDArray_operators.h>
+#include <gadgetron/parameterparser.h>
 #include <gadgetron/NFFTOperator.h>
 
 // Std includes
@@ -15,6 +23,8 @@
 #include <gadgetron/GadgetronTimer.h>
 #include <boost/program_options.hpp>
 #include <boost/asio.hpp>
+#include <gadgetron/mri_core_coil_map_estimation.h>
+#include <gadgetron/hoArmadillo.h>
 #include <complex>
 
 using namespace Gadgetron;
